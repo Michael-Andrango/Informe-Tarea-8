@@ -196,10 +196,104 @@ CAPÍTULO 16.
 
 SECCIÓN 16–1 Respuesta sinusoidal de circuitos RL en serie
 
+2. ¿Cuáles son las formas de onda de I, VR y VL en el problema 1?
 
+I, VR y VL son ondas de forma sinusoidal.
 
+SECCIÓN 16–2 Impedancia de circuitos RL en serie
 
+4. Determine la magnitud de la impedancia y el ángulo de fase en cada circuito de la figura 16-55. Trace los diagramas de impedancia.
 
+![image](https://user-images.githubusercontent.com/107088999/220912051-edcc2dae-1f11-4af7-ae10-f9eb9a30240e.png)
+
+![image](https://user-images.githubusercontent.com/107088999/220912505-4f78a776-3a44-4354-bdbb-112752e42b6d.png)
+
+6. Determine los valores de R y XL en un circuito RL en serie con los siguientes valores de impedancia total:
+
+![image](https://user-images.githubusercontent.com/107088999/220912787-83b9ff07-99aa-4f51-b0c5-6c122ab5122f.png)
+
+SECCIÓN 16–3 Análisis de circuitos RL en serie
+
+8. Se aplica un voltaje sinusoidal de 5 V, 10 kHz al circuito de la figura 16-57. Calcule el voltaje a través de la resistencia total encontrada en el problema 7.
+
+![image](https://user-images.githubusercontent.com/107088999/220913141-a5ae9f6e-7fbb-4219-b26c-5a976d033a4d.png)
+
+10. Exprese la corriente en forma polar para cada circuito de la figura 16-54.
+
+![image](https://user-images.githubusercontent.com/107088999/220913604-79455bd8-509e-487c-96f0-fd5938d5cba4.png)
+
+12. Determine u para el circuito de la figura 16-58.
+
+![image](https://user-images.githubusercontent.com/107088999/220913916-af0f4b78-0ba6-49b7-a64a-c8df472bdd27.png)
+
+14. Trace las formas de onda de Vs, VR y VL en la figura 16-58. Muestre las relaciones de fase apropiadas.
+
+![image](https://user-images.githubusercontent.com/107088999/220914601-7f1d4b5c-d5dc-4952-a694-7d1a73aebada.png)
+
+16. Determine la magnitud y el ángulo de fase del voltaje de fuente en la figura 16-60.
+
+![image](https://user-images.githubusercontent.com/107088999/220915228-3b0cedb5-0d87-4cc4-9b4e-7eb1ba43ed38.png)
+
+18. Repita el problema 17 para el circuito de adelanto para encontrar el adelanto de fase en la figura 16-62.
+
+![image](https://user-images.githubusercontent.com/107088999/220915702-471194ce-cc92-4342-8b3d-1edffd514ef6.png)
+
+PARTE 2 CIRCUITOS EN PARALELO
+
+SECCIÓN 16–4 Impedancia y admitancia de circuitos RL en paralelo
+
+20. Repita el problema 19 para las siguientes frecuencias:
+(a) 1.5 kHz (b) 3 kHz (c) 5 kHz (d) 10 kHz
+
+![image](https://user-images.githubusercontent.com/107088999/220915944-09d0f6d6-a6b3-4343-b504-232d0be6c4b3.png)
+
+SECCIÓN 16–5 Análisis de circuitos RL en paralelo
+
+22. Encuentre la corriente total y cada corriente de rama en la figura 16-64.
+
+![image](https://user-images.githubusercontent.com/107088999/220916688-2cf816c7-7a86-4587-adf4-1ae3c9958750.png)
+
+24. Repita el problema 23 para R 5 56 Æ y L 5 330 mH.
+
+![image](https://user-images.githubusercontent.com/107088999/220917532-dfaba325-a170-453b-bad4-ef79471f70b4.png)
+
+26. Determine la magnitud y el ángulo de fase de la corriente total que aparece en la figura 16-67.
+
+![image](https://user-images.githubusercontent.com/107088999/220917997-38cdddb9-1eb9-4f3d-8603-4eb215b5edec.png)
+
+PARTE 3: CIRCUITOS EN SERIE-PARALELO
+SECCIÓN 16–6 Análisis de circuitos RL en serie-paralelo
+
+28. ¿Es el circuito de la figura 16-68 predominantemente resistivo o predominantemente inductivo?
+
+![image](https://user-images.githubusercontent.com/107088999/220918839-7956d85a-d71c-49f2-9c50-188402e5947a.png)
+
+30. Para el circuito de la figura 16-69, determine lo siguiente:
+
+![image](https://user-images.githubusercontent.com/107088999/220919343-7c2aa5cd-4fd0-43cc-a753-7fcf67a4a97f.png)
+
+*32. Trace el diagrama fasorial de los voltajes y las corrientes que aparecen en la figura 16-70.
+
+![image](https://user-images.githubusercontent.com/107088999/220919588-7b5af305-47cf-4304-b109-adceb7b21a9a.png)
+
+* 34. Determine el desplazamiento de fase y la atenuación desde la entrada hasta la salida para la red en configuración de escalera de la figura 16-72.
+
+![image](https://user-images.githubusercontent.com/107088999/220920204-34f56241-f647-4dc4-a5ce-b8eb326684e7.png)
+
+PARTE 4: TEMAS ESPECIALES
+SECCIÓN 16–7 Potencia en circuitos RL
+
+36. En cierto circuito RL, la potencia verdadera es de 100 mW, y la potencia reactiva de 340 mVAR. ¿Cuál es la potencia aparente?
+
+![image](https://user-images.githubusercontent.com/107088999/220920577-cb3a90cf-0ea5-41ad-b7c3-664124fb5e05.png)
+
+38. ¿Cuál es el factor de potencia en la figura 16-64?
+
+![image](https://user-images.githubusercontent.com/107088999/220920809-c5bab03d-2eaa-4bbc-a829-52f4929cd434.png)
+
+*40. Determine la potencia verdadera para el circuito de la figura 16-70.
+
+![image](https://user-images.githubusercontent.com/107088999/220921117-4b7f626e-be8a-44d5-b418-1698bf3aeff4.png)
 
 CONCLUSIONES.
 -Se estudió el procedimeinto para realizar el análisis de un circuito RL con dos conjuntos de componentes en paralelo
@@ -213,15 +307,6 @@ VIDEO.
 BIBLIOGRAFÍA.
 
 -Floyd, T. (2007). Principios de circuitos eléctricos. Ciudad de México: Pearson Eduación.
-
-
-
-
-
-
-
-
-
 
 
 
