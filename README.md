@@ -9,7 +9,15 @@ OBJETIVOS:
 1.1 OBJETIVO ESPECÍFICO:
 
 -Haber entendido los conceptos presentados en el capítulo 15 y 16 referente a circuitos RL y RC, conociendo sus usos y sus aplicaciones al momento de la resolución de ejercicios o análisis de los mismos.
+
 MARCO TEÓRICO
+
+![image](https://user-images.githubusercontent.com/107088999/221447934-34a43d84-b2e8-4661-a9cd-5bd1c4a8b10c.png)
+
+![image](https://user-images.githubusercontent.com/107088999/221448036-2ab0c36c-0aa6-4a75-987c-172b7ddac0fc.png)
+
+![image](https://user-images.githubusercontent.com/107088999/221448168-e15d4f84-e4a2-459c-879b-3c6a1d209299.png)
+
 
 EJERCICIOS DE APRENDIZAJE.
 
